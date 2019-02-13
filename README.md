@@ -12,3 +12,8 @@ This can be deployed in any web server or local file system.
 
 ## Copy rights
  Added copy rights 
+ 
+ ## How to contribute
+ 
+ Please fork this repository and issue pull request
+
