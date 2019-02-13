@@ -9,3 +9,6 @@ Sample website with plenty of files for demos
 ## Deployment
 
 This can be deployed in any web server or local file system.
+
+## Copy rights
+ Added copy rights 
