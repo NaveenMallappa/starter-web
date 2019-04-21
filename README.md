@@ -15,7 +15,8 @@ This can be deployed in any web server or local file system.
  
  ## How to contribute
  
- Please fork this repository and issue pull request
+ Please fork this repository and issue pull request to avoid confliict
+ 
 
 ## 12345
 
